@@ -9,9 +9,7 @@
     "spambot",
     "telegram",
     "userbot"
-    "Spambotop"
-    "Patricia"
-  ],
+   ],
     "env": {
       "STRING": {
         "description": "Telethon String Session",
